@@ -1,3 +1,3 @@
-const message = 'Hello node node';
+const message = 'Hello node';
 
 console.log(message);
